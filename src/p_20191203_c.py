@@ -1,5 +1,7 @@
 from p_20191203_b import *
 
+branch == 'master'
+
 def print_all():
     func()
     func2()
