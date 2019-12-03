@@ -3,11 +3,7 @@ from p_20191203_b import *
 
 branch = 'new'
 branch = 'master again'
-<<<<<<< Updated upstream
-change = 9
-=======
 change = 11
->>>>>>> Stashed changes
 
 def print_all():
     func()
