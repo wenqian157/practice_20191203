@@ -1,7 +1,10 @@
 from p_20191203_b import *
 
 branch = 'master'
+<<<<<<< Updated upstream
 branch2 = 'b1'
+=======
+>>>>>>> Stashed changes
 
 def print_all():
     func()
