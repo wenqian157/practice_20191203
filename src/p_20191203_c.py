@@ -1,6 +1,6 @@
 from p_20191203_b import *
 
-branch == 'master'
+branch = 'master'
 
 def print_all():
     func()
