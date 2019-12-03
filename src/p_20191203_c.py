@@ -3,7 +3,7 @@ from p_20191203_b import *
 
 branch = 'new'
 branch = 'master again'
-change = 5
+change = 6
 
 def print_all():
     func()
