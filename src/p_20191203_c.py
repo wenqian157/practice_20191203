@@ -5,7 +5,7 @@ branch = 'new'
 branch = 'master again'
 change = 10
 change = 11
-change = 'solve issue'
+change = 'solve issue2'
 
 def print_all():
     func()
